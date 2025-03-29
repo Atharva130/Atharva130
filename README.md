@@ -33,7 +33,7 @@ I am currently a second-year student in the Computer Technology branch, pursuing
 </p>
 
 
-### 💻 Tech Stack  
+### <b>💻 Tech Stack </b> 
 
 #### 🚀 Programming Languages  
 <div align="left">
