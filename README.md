@@ -12,7 +12,7 @@ I am currently a second-year student in the Computer Technology branch, pursuing
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Atharva130/Atharva130/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me 
 
 <p align="left">
   <a href="https://instagram.com/atharva._.rahate">
