@@ -5,7 +5,7 @@
 I am currently a second-year student in the Computer Technology branch, pursuing my 4th semester. I am a tech enthusiast with a strong passion for Artificial Intelligence (AI) and Large Language Models (LLMs). My technical expertise includes C, C++, Java, Python, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA). I am eager to explore and contribute to innovative AI-driven projects.
 
 
-## 🎮 Pac-Man Contribution Graph
+## 🎮 Pac-Man
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharva130/Atharva130/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharva130/Atharva130/output/pacman-contribution-graph.svg">
