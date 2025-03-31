@@ -2,7 +2,8 @@
 
 ## 🚀 About Me  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi+!+I+am+Atharva+Rahate;Welcome+to+My+GitHub+Profile+!;Exploring+AI%2C+ML%2C+and+LLMs+🤖;Always+Learning%2C+Always+Growing!+🚀)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=700&lines=Hi+!+I+am+Atharva+Rahate;Welcome+to+My+GitHub+Profile+!;Exploring+AI%2C+ML%2C+and+LLMs+🤖;Always+Learning%2C+Always+Growing!+🚀)](https://git.io/typing-svg)
+
 
 ## 👨‍💻 Who Am I?  
 🎓 **Second-year Computer Technology student** (4th semester)  
