@@ -7,15 +7,15 @@
 ## 👨‍💻 Who Am I?  
 🎓 **Second-year Computer Technology student** (4th semester)  
 💡 Passionate about **Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs)**  
-🚀 Exploring **Natural Language Processing (NLP)** and **AI-driven innovations**  
+🚀 Exploring **Data Structures & Algorithms (DSA)** to build efficient and optimized solutions
 
 ## 🌟 My Journey  
-🔍 Diving into **AI research & real-world applications**  
-💻 Building projects that **integrate AI with technology**  
-📚 Continuously improving my **problem-solving & development skills**  
-🚀 **Let’s innovate and shape the future of AI together!**  
 
-Let's connect and build something **innovative!** 🚀  
+🔍 Diving into **AI research & real-world applications**  
+💻 Applying **DSA to solve real-world challenges efficiently**  
+📚 Continuously improving my **problem-solving & development skills**  
+
+🚀 **Let’s innovate and shape the future of AI together!**  
 
 ## 🎮 Pac-Man
 <picture>
