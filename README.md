@@ -79,13 +79,13 @@
   <span>Seaborn</span>
   <img width="12" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="SciPy logo" />
+  <!--<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="SciPy logo" />
   <span>SciPy</span>
   <img width="12" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
   <span>Scikit-learn</span>
-  <img width="12" />
+  <img width="12" />-->
 </div>
 
 #### 🖥️ Development & Deployment  
