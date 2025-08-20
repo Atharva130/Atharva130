@@ -6,7 +6,7 @@
 
 
 ## 👨‍💻 Who Am I?  
-🎓 **Third-year Computer Technology student** (4th semester)  
+🎓 **Third-year Computer Technology student** (5th semester)  
 💡 Passionate about **Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs)**  
 🚀 Exploring **Data Structures & Algorithms (DSA)** to build efficient and optimized solutions
 
