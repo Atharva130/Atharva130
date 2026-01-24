@@ -1,4 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/3cf2f8c403aa809199071de4dc483744f9161260f6c3eceb39d673cfbe8b7e3e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966)](https://github.com/Atharva130)
+<p align="center">
+  <img src="assets/Coding%20-%20Pixel%20Jeff.gif" height="250" />
+</p>
 
 ## 🚀 About Me  
 
