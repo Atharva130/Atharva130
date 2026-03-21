@@ -56,8 +56,10 @@
   <span>&nbsp;HuggingFace</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <span>&nbsp;FastAPI</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <span>&nbsp;Docker</span>
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat&logoColor=white" height="28" alt="LangChain" />
+  <span>&nbsp;LangChain</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat&logoColor=white" height="28" alt="RAG" />
+  <span>&nbsp;RAG</span>
 </div>
 
 <br>
@@ -70,6 +72,8 @@
   <span>&nbsp;Pandas</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
   <span>&nbsp;Matplotlib</span>&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+  <span>&nbsp;Seaborn</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <span>&nbsp;OpenCV</span>
 </div>
@@ -82,10 +86,14 @@
   <span>&nbsp;Git</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <span>&nbsp;GitHub</span>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <span>&nbsp;Docker</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <span>&nbsp;VS Code</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Colab" />
-  <span>&nbsp;Google Colab</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <span>&nbsp;Jupyter</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white" height="28" alt="Gradio" />
+  <span>&nbsp;Gradio</span>
 </div>
 
 ---
