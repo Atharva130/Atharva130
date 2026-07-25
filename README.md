@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **3rd Year B.Tech — Computer Technology** @ YCCE Nagpur | Minor: AI & ML | CGPA: 8.81
+🎓 **4th Year B.Tech — Computer Technology** @ YCCE Nagpur | Minor: AI & ML | CGPA: 8.81
 
 🧠 Passionate about **Deep Learning, Computer Vision, NLP, and Generative AI**
 
