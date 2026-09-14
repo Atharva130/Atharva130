@@ -12,11 +12,11 @@
 
 🎓 **4th Year B.Tech — Computer Technology** @ YCCE Nagpur | Minor: AI & ML | CGPA: 8.81
 
-🧠 Passionate about **Deep Learning, Computer Vision, NLP, and Generative AI**
+🧠 Building agentic AI systems, RAG pipelines, and deep learning models — not just notebooks, but deployed, evaluated systems
 
 🔬 I build end-to-end ML systems — from raw data to deployed models
 
-🏆 Hackathon winner | IEEE CS Head of Execution | Classical Pianist 🎹
+🏆 Hackathon winner | IEEE CS Organizer | Classical Pianist 🎹
 
 ---
 
@@ -58,8 +58,14 @@
   <span>&nbsp;FastAPI</span>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat&logoColor=white" height="28" alt="LangChain" />
   <span>&nbsp;LangChain</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=flat&logoColor=white" height="28" alt="LangGraph" />
+  <span>&nbsp;LangGraph</span>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat&logoColor=white" height="28" alt="RAG" />
-  <span>&nbsp;RAG</span>
+  <span>&nbsp;RAG</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MCP-4A90D9?style=flat&logoColor=white" height="28" alt="MCP" />
+  <span>&nbsp;MCP</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white" height="28" alt="ChromaDB" />
+  <span>&nbsp;ChromaDB</span>
 </div>
 
 <br>
@@ -92,6 +98,8 @@
   <span>&nbsp;VS Code</span>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <span>&nbsp;Jupyter</span>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />
+  <span>&nbsp;Streamlit</span>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white" height="28" alt="Gradio" />
   <span>&nbsp;Gradio</span>
 </div>
@@ -128,11 +136,5 @@
   </a>
   <a href="https://github.com/Atharva130">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/rahateatharva13/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/atharva._.rahate">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
